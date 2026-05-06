@@ -1,4 +1,6 @@
 streamlit
+fastapi
+uvicorn
 tensorflow
 numpy
 pandas
@@ -6,3 +8,5 @@ matplotlib
 scikit-learn
 yfinance
 joblib
+requests
+plotly
